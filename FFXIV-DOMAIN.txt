@@ -1,0 +1,3 @@
+payload:
+  - '+.ffxiv.com'
+  - '+.finalfantasyxiv.com'
