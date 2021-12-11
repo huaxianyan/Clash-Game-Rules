@@ -1,3 +1,4 @@
 payload:
   - '+.ffxiv.com'
   - '+.finalfantasyxiv.com'
+  - '+.square-enix.com'
