@@ -2,7 +2,3 @@ payload:
   - '+.ffxiv.com'
   - '+.finalfantasyxiv.com'
   - '+.square-enix.com'
-  - '+.np.communication.playstation.net'
-  - 'uds-edge.np.community.playstation.net'
-  - 'telemetry-console.api.playstation.com'
-  - 'urlconfig.api.playstation.com'
