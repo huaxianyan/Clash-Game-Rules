@@ -1,0 +1,6 @@
+payload:
+  - '+.blizzard.com'
+  - '+.battle.net'
+  - '+.cloudn.co.kr'
+  - 'ocsp2.globalsign.com'
+  - '+.blz-contentstack.com'
