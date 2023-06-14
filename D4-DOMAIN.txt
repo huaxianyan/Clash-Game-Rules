@@ -1,6 +1,7 @@
 payload:
   - 'prod.depot.blizzard.com'
   - 'prod.actual.blizzard.com'
+  - 'd4.ingset.gdp.blizzard.com'
   - '+.blizzard.com'
   - '+.api.blizzard.com'
   - '+.battle.net'
