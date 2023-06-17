@@ -1,7 +1,7 @@
 payload:
-  - '+.ffxiv.com'
-  - '+.finalfantasyxiv.com'
-  - '+.square-enix.com'
-  - 'dotnetcli.azureedge.net'
-  - 'kamori.goats.dev'
-  - 'goatcorp.github.io'
+  - DOMAIN-SUFFIX,ffxiv.com
+  - DOMAIN-SUFFIX,finalfantasyxiv.com
+  - DOMAIN-SUFFIX,square-enix.com
+  - DOMAIN,dotnetcli.azureedge.net
+  - DOMAIN,kamori.goats.dev
+  - DOMAIN,goatcorp.github.io
