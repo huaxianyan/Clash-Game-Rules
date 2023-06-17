@@ -1,10 +1,6 @@
 payload:
-  - 'prod.depot.blizzard.com'
-  - 'prod.actual.blizzard.com'
-  - 'd4.ingset.gdp.blizzard.com'
-  - '+.blizzard.com'
-  - '+.api.blizzard.com'
-  - '+.battle.net'
-  - 'blizzard.gcdn.cloudn.co.kr'
-  - 'ocsp2.globalsign.com'
-  - 'cdn.blz-contentstack.com'
+  - DOMAIN-SUFFIX.blizzard.com
+  - DOMAIN-SUFFIX.battle.net
+  - DOMAIN,blizzard.gcdn.cloudn.co.kr
+  - DOMAIN,ocsp2.globalsign.com
+  - DOMAIN,cdn.blz-contentstack.com
