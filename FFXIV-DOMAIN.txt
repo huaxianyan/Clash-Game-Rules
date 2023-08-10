@@ -1,7 +1,7 @@
 payload:
-  - DOMAIN-SUFFIX,ffxiv.com
-  - DOMAIN-SUFFIX,finalfantasyxiv.com
-  - DOMAIN-SUFFIX,square-enix.com
+  - DOMAIN-KEYWORD,ffxiv
+  - DOMAIN-KEYWORD,finalfantasyxiv
+  - DOMAIN-KEYWORD,square-enix
   - DOMAIN,dotnetcli.azureedge.net
   - DOMAIN,kamori.goats.dev
   - DOMAIN,goatcorp.github.io
