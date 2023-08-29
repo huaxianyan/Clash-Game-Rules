@@ -1,6 +1,6 @@
 payload:
-  - DOMAIN-SUFFIX,blizzard.com
-  - DOMAIN-SUFFIX,battle.net
-  - DOMAIN,blizzard.gcdn.cloudn.co.kr
-  - DOMAIN,ocsp2.globalsign.com
-  - DOMAIN,cdn.blz-contentstack.com
+  - '+.blizzard.com'
+  - '+.battle.net'
+  - 'blizzard.gcdn.cloudn.co.kr'
+  - 'ocsp2.globalsign.com'
+  - 'cdn.blz-contentstack.com'
