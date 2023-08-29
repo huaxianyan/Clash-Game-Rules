@@ -1,5 +1,13 @@
 payload:
-  - DOMAIN-SUFFIX,granbluefantasy.jp
-  - DOMAIN-SUFFIX,mobage.jp
-  - DOMAIN-SUFFIX,dmm.com
-  - DOMAIN-KEYWORD,granbluefantasy.akamaized.net
+  - 'granbluefantasy.jp'
+  - '+.granbluefantasy.jp'
+  - 'mobage.jp'
+  - '+.mobage.jp'
+  - 'dmm.com'
+  - '+.dmm.com'
+  - 'prd-game-a-granbluefantasy.akamaized.net'
+  - 'prd-game-a1-granbluefantasy.akamaized.net'
+  - 'prd-game-a2-granbluefantasy.akamaized.net'
+  - 'prd-game-a3-granbluefantasy.akamaized.net'
+  - 'prd-game-a4-granbluefantasy.akamaized.net'
+  - 'prd-game-a5-granbluefantasy.akamaized.net'
