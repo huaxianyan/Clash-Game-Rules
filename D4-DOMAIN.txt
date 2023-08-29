@@ -1,5 +1,7 @@
 payload:
+  - 'blizzard.com'
   - '+.blizzard.com'
+  - 'battle.net'
   - '+.battle.net'
   - 'blizzard.gcdn.cloudn.co.kr'
   - 'ocsp2.globalsign.com'
