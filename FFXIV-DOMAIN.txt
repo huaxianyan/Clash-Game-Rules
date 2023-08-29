@@ -1,6 +1,9 @@
 payload:
+  - 'ffxiv.com'
   - '+.ffxiv.com'
+  - 'finalfantasyxiv'
   - '+.finalfantasyxiv'
+  - 'square-enix'
   - '+.square-enix'
   - 'dotnetcli.azureedge.net'
   - 'kamori.goats.dev'
