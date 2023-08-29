@@ -1,7 +1,7 @@
 payload:
-  - DOMAIN-KEYWORD,ffxiv.com
-  - DOMAIN-KEYWORD,finalfantasyxiv
-  - DOMAIN-KEYWORD,square-enix
-  - DOMAIN,dotnetcli.azureedge.net
-  - DOMAIN,kamori.goats.dev
-  - DOMAIN,goatcorp.github.io
+  - '+.ffxiv.com'
+  - '+.finalfantasyxiv'
+  - '+.square-enix'
+  - 'dotnetcli.azureedge.net'
+  - 'kamori.goats.dev'
+  - 'goatcorp.github.io'
